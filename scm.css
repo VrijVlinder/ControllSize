@@ -1,0 +1,21 @@
+.Message object{
+	max-width:300px!important;
+	max-height:200px!important;
+}
+.Message embed{
+	max-width:300px!important;
+	max-height:200px!important;
+}
+.Message img{
+	max-width:300px!important;
+	height:auto;
+}
+.Message div.Video embed{
+	max-width:300px!important;
+	max-height:200px!important;
+}
+
+.Message iframe{
+	max-width:300px!important;
+	max-height:200px!important;
+}

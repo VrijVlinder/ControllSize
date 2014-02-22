@@ -1,0 +1,8 @@
+
+This plugin forces all embedded content to be the size you want.
+
+You can edit the size for the various embedded objects such as images video or iframes.
+
+Use the sc.css to edit the size for the full site view
+
+Use the scm.css to edit the size for the mobile site view.
